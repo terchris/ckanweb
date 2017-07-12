@@ -415,6 +415,9 @@ h6,
 #msg-box8-0 p {
   color: #fff;
 }
+#features1-l .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #msg-box8-2 .mbr-section-title,
 #msg-box8-2 p {
   color: #fff;
@@ -422,13 +425,6 @@ h6,
 #msg-box8-5 .mbr-section-title,
 #msg-box8-5 p {
   color: #fff;
-}
-#features4-7 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-7 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
 }
 #msg-box8-8 .mbr-section-title,
 #msg-box8-8 p {
